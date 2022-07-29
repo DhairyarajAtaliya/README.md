@@ -1,5 +1,6 @@
 # README.md
 The README.md file contains a brief explanation of the Python code that has been upload.
+
 This is a sample Python file with several lines of code showing how to build a connection to a SQL database. Then we wrote simple and complex queries and read them into a DataFrame, along with many lines of Python code.
 We have used the vgsales-2016 Database which contains data on Different Video games list and their Metadata. We will be performing some queries using this data set to get relevant information.
 First, we must install all of the Python packages that will be needed for this code. To install all of the required packages, we utilize the Package Manager pip. The following step will be to import the Python libraries that will be used to execute the code. It includes code bundles that may be reused in several apps. It simplifies and facilitates Python programming for the programmer.
