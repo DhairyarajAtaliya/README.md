@@ -1,5 +1,5 @@
 # README.md
-The README.md file contains a brief explanation of the Python code that has been upload.
+The README.md GitHub repository contains a brief explanation of the Python code that has been upload.
 
 This is a sample Python file with several lines of code showing how to build a connection to a SQL database. Then we wrote simple and complex queries and read them into a DataFrame, along with many lines of Python code.
 
